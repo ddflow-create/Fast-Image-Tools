@@ -1,0 +1,6 @@
+{
+  "name": "AspectPad - Image Padding Tool",
+  "description": "Offline capable web application to add padding to images to meet target aspect ratios without cropping or resizing the original image.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
